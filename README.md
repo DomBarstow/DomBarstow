@@ -10,7 +10,6 @@ I am a data-driven problem solver with a strong foundation in mathematics, havin
 * ✉️  You can contact me at [dominicbarstow1995@gmail.com](mailto:dominicbarstow1995@gmail.com)
 * 🧠  I'm learning PANDAS, DAX
 * 🤝  I'm open to collaborating on Sports Performance Analytics
-* ⚡  Big Leeds United Fan ALAW
 
 ### Skills
 
